@@ -763,7 +763,12 @@ body {
 }
 .skills_logo {
   max-width: 60px;
+  text-align: center;
+  margin: 0 auto;
 }
 .container1 {
   margin: 0 auto;
+}
+.section-heading {
+  text-align: center;
 }
