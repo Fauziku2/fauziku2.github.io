@@ -278,6 +278,9 @@ header .intro-text .intro-heading {
     line-height: 75px;
     margin-bottom: 50px;
   }
+  header {
+    background-attachment: fixed;
+  }
 }
 section {
   padding: 100px 0;
